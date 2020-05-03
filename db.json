@@ -1,10 +1,30 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  "data":
+    [
+        {
+            "id":1,
+            "email":"george.blue@company.com",
+            "first_name":"George",
+            "last_name":"Blue"
+        },
+        {   
+            "id":2, 
+            "email":"jolanda.red@company.com",
+            "first_name":"Jolanda",
+            "last_name":"Red"
+        },
+        {
+            "id":3,
+            "email":"susannah.pink@company.com",
+            "first_name":"Susannah",
+            "last_name":"Pink"
+        },
+        {
+            "id":4,
+            "email":"john.green@company.com",
+            "first_name":"John",
+            "last_name":"Green"
+        }
   "profile": {
     "name": "typicode"
   }
